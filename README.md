@@ -1,11 +1,11 @@
-### Hi there 👋
+<img src="https://www.canva.com/design/DAF7Oc653ik/Q4A1ueoLqPHuhWVHRhRqfw/view?utm_content=DAF7Oc653ik&utm_campaign=designshare&utm_medium=link&utm_source=editor">
 
 <!--
 **DUrizarSis/DUrizarSis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
+- 🔭 Fullstack Developer
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
