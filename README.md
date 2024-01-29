@@ -1,4 +1,4 @@
-<img src="[https://www.canva.com/design/DAF7Oc653ik/view](https://drive.google.com/file/d/129n4faDG4jrubshpmdeBQfV6NOc2iUtQ/view?usp=drive_link)">
+<img src="https://imgur.com/jfMaS6S">
 
 <!--
 **DUrizarSis/DUrizarSis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
