@@ -6,16 +6,16 @@
 ### <div align="center">I'm Diego Urizar, a full-stack developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [Calendar Proyect ](https://github.com/DUrizarSis/Calendar-Proyect)  
+- 🔭 I’m currently working on **Talentify** project 
   
 
-- 🌱 I’m currently learning Electron.js  
+- 🌱 I’m currently learning Electron.js and Python  
   
 
 - ❓ Ask me about anything related to MERN and PERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact:  I'm a music enthusiast, and I always have a themed playlist for each project I work on.
   
 
 <br/>  
